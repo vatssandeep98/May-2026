@@ -10,5 +10,5 @@ resource "azurerm_resource_group" "rg1" {
 
 resource "azurerm_resource_group" "rg22" {  #Ticket Number 0001 fo RG add
   name = "rg-3"
-  location = "central india"
+  location = "central us"
 }
