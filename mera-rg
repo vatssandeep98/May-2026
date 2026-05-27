@@ -1,0 +1,4 @@
+resource "azurerm_resource_group" "yogi" {
+  name = "rg-yogi"
+  location = "central india"
+}
