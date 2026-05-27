@@ -1,0 +1,9 @@
+resource "azurerm_resource_group" "rg" {
+  name = "rg-1"
+  location = "central india"
+}
+
+resource "azurerm_resource_group" "rg1" {
+  name = "rg-2"
+  location = "central india"
+}
